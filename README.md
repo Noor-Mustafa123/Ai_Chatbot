@@ -25,9 +25,4 @@ Chat Functionality: Create chat sessions and exchange messages with bots
 
 File Handling: Upload bot avatars and other media
 
-Technical Architecture:
-Backend: Spring Boot with Spring Security and Spring Web MVC
-Frontend: HTML/CSS/JavaScript with custom styling
-API Communication: Both direct SDK usage and REST API endpoints
-Authentication: Token-based authentication with login functionality
 

@@ -31,4 +31,3 @@ Frontend: HTML/CSS/JavaScript with custom styling
 API Communication: Both direct SDK usage and REST API endpoints
 Authentication: Token-based authentication with login functionality
 
-This project serves as a foundation for building AI-powered chat applications using the Coze platform, providing both backend services and a user-friendly chat interface.
